@@ -1,6 +1,8 @@
 # 💫 About Me:
-I am learning c rn <br>I will learn java<br>i have knowlegde of c++ and python, linux and git and docker :D.
-
+Currently learning C and exploring systems programming 🧠  
+Planning to learn Java next.  
+I have experience in C++, Python, Linux, Git, and Docker.  
+Always building, breaking, and learning new things :D
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eesa_0_0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eesak490@gmail.com) 
@@ -24,4 +26,4 @@ I am learning c rn <br>I will learn java<br>i have knowlegde of c++ and python, 
 ---
 [![](https://komarev.com/ghpvc/?username=E3S4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
